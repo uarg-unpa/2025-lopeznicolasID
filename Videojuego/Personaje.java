@@ -52,8 +52,8 @@ public class Personaje {
         }
     }
 
-    public int esAtaque( int dano){
-        this.ptsdevida = this.ptsdevida - dano;
+    public int esAtaque(){
+        this.ptsdevida-=1;
         return this.ptsdevida;
     }
 
