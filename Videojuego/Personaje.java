@@ -1,4 +1,4 @@
-package TareaEnClase;
+package Videojuego;
 
 public class Personaje {
     private String nombre;
