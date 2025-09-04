@@ -45,7 +45,7 @@ if (scanner.hasNextInt()) {
 } else {
     System.out.println("Por favor, ingresa un número entero válido.");
     scanner.next(); // Descarta la entrada incorrecta
-}
+uarg.pa.practica/_01_scanner}
 ```
 
 ## 5. **Limpiar el buffer**
