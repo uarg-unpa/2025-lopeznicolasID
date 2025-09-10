@@ -57,4 +57,7 @@ public class Persona {
     this.dni=dni;
     }
 //otras operaciones
+
+
+
 }
