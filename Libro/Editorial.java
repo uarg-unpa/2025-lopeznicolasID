@@ -24,7 +24,5 @@ public class Editorial {
     public void setAnno(int anno){
     this.anno=anno;
     }
-
-
-
+    
 }

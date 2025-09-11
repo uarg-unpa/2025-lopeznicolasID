@@ -65,4 +65,6 @@ public class Libro {
             return (int) Math.ceil((double) paginas / paginas_Estimadas);
     }
 
+    
+
 }
